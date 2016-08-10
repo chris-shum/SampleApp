@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_12d09b8b948fc15199994ab442818d169c643be7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_1ff3328b94d4d13df60f32ebb7f97e2b4da9f945/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_18f0d78b4e1c965c1d8ede55526d19f4e94a338b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="88824e149ca3a669d2a86a0f3ccb6c27022ccb68">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de5f1cdd6b4bb8464409a2abb2c9153ebe1affe4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_ac4265efea1c3a18582672b5f9cdced661419a86/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_b54a7290c4e5334e4f29211685d600822db7677b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_b8f513981974a9e8dc5e8a3ba887287ada452d7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_e8f77bef57c858eb59c236437e74b8c9d0f415d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_a55afb708b6e616f20d27b20b8e69136bb4b57a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f2e965038e1c29e27b8b0277c15605a571be2420/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_2706dc9955d41328f78f54d0e30605fe4a35329f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_699b166ba3009ea55c218f2e2c517be19c3226f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.annotation-10.0-b28_a40126919ba861a78f983b8942a24ca67804342b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_57d9b4c68de76e35f16fe7a3fd60091f432dc0b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_70ae7d5ed81eb39610faedc1eb19007b066e55fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e817111200a8e321287bfa48fa18cef1e2af3e6d">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc61c13d924657a0cab2c99ca28ded1575d56696/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_f35c7840a476a52cf91771c1c1ebd77cfe8e4fea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_6aa960bb42bc5781e63607370b03d1e9ae39fcae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_d0fb377c1c689966e1e5653ac9ea76894a8852de/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ShowMe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_312a11fbd5f218a032b33830f15df33695dd2b11/classes.dex" />
+    </item>
+
+</items>
