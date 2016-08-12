@@ -39,6 +39,8 @@ public class DetailsActivity extends AppCompatActivity {
 
     float x1, x2;
 
+    // TODO: 8/11/16 make this page hold fragments so I can swipe instead of calling new activities.
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -66,6 +68,7 @@ public class DetailsActivity extends AppCompatActivity {
         }
     }
 
+//    removes HTML from JSON
     public String stripHtml(String html) {
         return Html.fromHtml(html).toString();
     }
@@ -79,12 +82,12 @@ public class DetailsActivity extends AppCompatActivity {
         return html;
     }
 
+
+//    allows for swiping through details of items
     @Override
     public boolean dispatchTouchEvent(MotionEvent ev) {
         Intent intent = getIntent();
         int position = intent.getIntExtra("Position", 0);
-
-
         switch (ev.getAction()) {
             case (MotionEvent.ACTION_DOWN):
                 x1 = ev.getX();

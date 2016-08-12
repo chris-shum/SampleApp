@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         Picasso.with(this).load(R.drawable.mlynch).into(mMainImageView);
 
+//        API call happens after press of fab, checks set, if all pass, gets data, goes to next activity
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -93,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-        onDestroy();
+        android.os.Process.killProcess(android.os.Process.myPid());
+        System.exit(1);
     }
 }

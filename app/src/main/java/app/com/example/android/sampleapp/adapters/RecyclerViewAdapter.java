@@ -51,7 +51,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.productName.setText(singleton.getmItemArrayList().get(position).getName());
         holder.productPrice.setText("$"+singleton.getmItemArrayList().get(position).getMsrp());
         holder.productPrice.setPaintFlags(holder.productPrice.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
-
         holder.productSalePrice.setText("Sale Price: $"+singleton.getmItemArrayList().get(position).getSalePrice());
     }
 

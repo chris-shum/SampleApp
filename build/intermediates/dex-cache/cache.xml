@@ -26,7 +26,7 @@
         jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="88824e149ca3a669d2a86a0f3ccb6c27022ccb68">
+        sha1="aa0e89db7f99216ee4e470d66335652e4057f710">
         <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de5f1cdd6b4bb8464409a2abb2c9153ebe1affe4/classes.dex" />
     </item>
     <item
@@ -110,7 +110,7 @@
         jar="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="e817111200a8e321287bfa48fa18cef1e2af3e6d">
+        sha1="1fd85f54f77b87627c074de31592ba904ad5f9ca">
         <dex dex="/Users/ShowMe/Documents/Android/MerrillLynch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc61c13d924657a0cab2c99ca28ded1575d56696/classes.dex" />
     </item>
     <item
